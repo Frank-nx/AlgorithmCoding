@@ -2,7 +2,6 @@ package 程序员代码面试指南.problem01_StackAndQueue;
 
 import util.ArrayMatrixUtil;
 
-import javax.swing.text.StyledEditorKit;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
