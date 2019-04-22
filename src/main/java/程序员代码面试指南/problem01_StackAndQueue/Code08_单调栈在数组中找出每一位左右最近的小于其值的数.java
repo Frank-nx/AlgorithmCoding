@@ -1,6 +1,6 @@
 package 程序员代码面试指南.problem01_StackAndQueue;
 
-import util.ArrayMatrixUtil;
+import 程序员代码面试指南.a_util.ArrayMatrixUtil;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;

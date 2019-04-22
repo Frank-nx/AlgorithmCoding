@@ -1,11 +1,9 @@
 package 程序员代码面试指南.problem01_StackAndQueue;
 
 import org.junit.Test;
-import util.StackUtil;
+import 程序员代码面试指南.a_util.StackUtil;
 
 import java.util.Stack;
-
-import static org.junit.Assert.*;
 
 public class Code04_用一个栈实现另一个栈的排序Test {
 

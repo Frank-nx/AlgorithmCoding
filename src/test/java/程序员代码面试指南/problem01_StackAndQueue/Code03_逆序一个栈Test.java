@@ -2,7 +2,7 @@ package 程序员代码面试指南.problem01_StackAndQueue;
 
 
 import org.junit.Test;
-import util.StackUtil;
+import 程序员代码面试指南.a_util.StackUtil;
 
 import java.util.Stack;
 
