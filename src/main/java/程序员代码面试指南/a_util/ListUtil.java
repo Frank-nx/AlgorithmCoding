@@ -24,6 +24,20 @@ public class ListUtil {
         return head;
     }
 
+    public static Node arrayToCircularList(int[] arr){
+        if (arr == null || arr.length == 0){
+            return null;
+        }
+        Node head = new Node(arr[0]);
+        Node cur = head;
+        for (int i = 1; i < arr.length; i++) {
+            cur.next = new Node(arr[i]);
+            cur = cur.next;
+        }
+        cur.next = head;
+        return head;
+    }
+
     public static DoubleNode arrayToDoubleList(int[] arr){
         if (arr == null || arr.length == 0){
             return null;
