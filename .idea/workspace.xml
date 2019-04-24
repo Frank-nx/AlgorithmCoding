@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a1d103-e211-4a5d-a770-84033632b571" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/checkUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code06_环形单链表的约瑟夫问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code07_判断一个链表是否是回文结构.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code08_将单向链表按某值划分为小等大三部分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code09_复制含有随机指针节点的链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code10_两个单链表生成相加链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code11_两个单链表相交的一系列问题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/ListUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/ListUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code05_反转部分单向链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code05_反转部分单向链表.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,59 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Code03_删除链表中间的节点和ab处节点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code03_删除链表中间的节点和ab处节点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1288">
-              <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code04_反转单向和双向链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code04_反转单向和双向链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code05_反转部分单向链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code05_反转部分单向链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/installation/work/javaJDK/JDK/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="422" column="28" selection-start-line="422" selection-start-column="28" selection-end-line="422" selection-end-column="28" />
-              <folding>
-                <element signature="e#16338#16339#0" expanded="true" />
-                <element signature="e#16420#16421#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Code06_环形单链表的约瑟夫问题.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code06_环形单链表的约瑟夫问题.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="345">
               <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,8 +36,8 @@
       <file leaf-file-name="Code07_判断一个链表是否是回文结构.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code07_判断一个链表是否是回文结构.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1416">
-              <caret line="79" column="19" lean-forward="true" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+            <state relative-caret-position="1748">
+              <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,16 +48,16 @@
       <file leaf-file-name="checkUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/checkUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="552">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code08_将单向链表按某值划分为小等大三部分.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Code08_将单向链表按某值划分为小等大三部分.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code08_将单向链表按某值划分为小等大三部分.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
+            <state relative-caret-position="161">
               <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -121,7 +69,7 @@
       <file leaf-file-name="Random.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/installation/work/javaJDK/JDK/src.zip!/java/util/Random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="11201">
               <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
               <folding>
                 <element signature="e#21068#21069#0" expanded="true" />
@@ -134,8 +82,58 @@
       <file leaf-file-name="ListUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/ListUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="253">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code09_复制含有随机指针节点的链表.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code09_复制含有随机指针节点的链表.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code10_两个单链表生成相加链表.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code10_两个单链表生成相加链表.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code11_两个单链表相交的一系列问题.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code11_两个单链表相交的一系列问题.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code01_打印两个有序链表的公共部分.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code01_打印两个有序链表的公共部分.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="82" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -184,7 +182,6 @@
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/util/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/Node.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_nodeClass/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code01_打印两个有序链表的公共部分.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_nodeClass/DoubleNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code02_在单链表和双链表中删除倒数第k个节点.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code03_删除链表中间的节点和ab处节点.java" />
@@ -195,6 +192,12 @@
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code07_判断一个链表是否是回文结构.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/checkUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code08_将单向链表按某值划分为小等大三部分.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code09_复制含有随机指针节点的链表.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code10_两个单链表生成相加链表.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code01_打印两个有序链表的公共部分.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code11_两个单链表相交的一系列问题.java" />
       </list>
     </option>
   </component>
@@ -208,10 +211,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,6 +223,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,8 +303,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,6 +311,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -338,9 +342,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code08_将单向链表按某值划分为小等大三部分">
-    <configuration name="Code04_反转单向和双向链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code04_反转单向和双向链表" />
+  <component name="RunManager" selected="Application.Code11_两个单链表相交的一系列问题">
+    <configuration name="Code01_打印两个有序链表的公共部分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code01_打印两个有序链表的公共部分" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -350,8 +354,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code05_反转部分单向链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code05_反转部分单向链表" />
+    <configuration name="Code09_复制含有随机指针节点的链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code09_复制含有随机指针节点的链表" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -361,8 +365,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code06_环形单链表的约瑟夫问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code06_环形单链表的约瑟夫问题" />
+    <configuration name="Code10_两个单链表生成相加链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code10_两个单链表生成相加链表" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -372,19 +376,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code07_判断一个链表是否是回文结构" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code07_判断一个链表是否是回文结构" />
-      <module name="AlgorithmCoding" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="程序员代码面试指南.problem02_linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Code08_将单向链表按某值划分为小等大三部分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code08_将单向链表按某值划分为小等大三部分" />
+    <configuration name="Code11_两个单链表相交的一系列问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.Code11_两个单链表相交的一系列问题" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -396,6 +389,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem02_linkedList.test1" />
+      <module name="AlgorithmCoding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="程序员代码面试指南.problem02_linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -436,19 +440,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Code04_反转单向和双向链表" />
-      <item itemvalue="Application.Code05_反转部分单向链表" />
-      <item itemvalue="Application.Code06_环形单链表的约瑟夫问题" />
-      <item itemvalue="Application.Code07_判断一个链表是否是回文结构" />
-      <item itemvalue="Application.Code08_将单向链表按某值划分为小等大三部分" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.Code09_复制含有随机指针节点的链表" />
+      <item itemvalue="Application.Code10_两个单链表生成相加链表" />
+      <item itemvalue="Application.Code01_打印两个有序链表的公共部分" />
+      <item itemvalue="Application.Code11_两个单链表相交的一系列问题" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code08_将单向链表按某值划分为小等大三部分" />
-        <item itemvalue="Application.Code07_判断一个链表是否是回文结构" />
-        <item itemvalue="Application.Code06_环形单链表的约瑟夫问题" />
-        <item itemvalue="Application.Code05_反转部分单向链表" />
-        <item itemvalue="Application.Code04_反转单向和双向链表" />
+        <item itemvalue="Application.Code11_两个单链表相交的一系列问题" />
+        <item itemvalue="Application.Code01_打印两个有序链表的公共部分" />
+        <item itemvalue="Application.Code10_两个单链表生成相加链表" />
+        <item itemvalue="Application.Code09_复制含有随机指针节点的链表" />
+        <item itemvalue="Application.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +471,9 @@
       <workItem from="1555768181810" duration="11655000" />
       <workItem from="1555855297639" duration="1011000" />
       <workItem from="1555892755719" duration="14306000" />
-      <workItem from="1555978031725" duration="12297000" />
+      <workItem from="1555978031725" duration="12425000" />
+      <workItem from="1556019632350" duration="5596000" />
+      <workItem from="1556062889838" duration="6327000" />
     </task>
     <task id="LOCAL-00001" summary="栈和队列问题01">
       <created>1555596479465</created>
@@ -504,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555934879761</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="链表问题02">
+      <created>1556000001793</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556000001793</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -540,10 +553,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60719000" />
+    <option name="totallyTimeSpent" value="72770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -555,11 +569,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2140884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24033149" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28580728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28580728" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -586,11 +600,12 @@
     <MESSAGE value="栈和队列问题02" />
     <MESSAGE value="栈和队列问题03" />
     <MESSAGE value="链表问题01" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表问题01" />
+    <MESSAGE value="链表问题02" />
+    <option name="LAST_COMMIT_MESSAGE" value="链表问题02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -603,41 +618,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code07_生成窗口最大值数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/installation/work/javaJDK/JDK/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2415">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/ArrayMatrixUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code07_生成窗口最大值数组Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code08_单调栈在数组中找出每一位左右最近的小于其值的数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -862,16 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code01_打印两个有序链表的公共部分.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_nodeClass/DoubleNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -883,9 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,10 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7222">
           <caret line="339" column="22" selection-start-line="339" selection-start-column="22" selection-end-line="339" selection-end-column="22" />
-          <folding>
-            <element signature="e#12605#12606#0" expanded="true" />
-            <element signature="e#12658#12659#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,9 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1288">
           <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -914,9 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,7 +889,7 @@
     </entry>
     <entry file="jar://C:/installation/work/javaJDK/JDK/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="8533">
           <caret line="422" column="28" selection-start-line="422" selection-start-column="28" selection-end-line="422" selection-end-column="28" />
           <folding>
             <element signature="e#16338#16339#0" expanded="true" />
@@ -941,19 +898,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/ListUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code06_环形单链表的约瑟夫问题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="345">
           <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -963,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code07_判断一个链表是否是回文结构.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1416">
-          <caret line="79" column="19" lean-forward="true" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        <state relative-caret-position="1748">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -973,7 +920,7 @@
     </entry>
     <entry file="jar://C:/installation/work/javaJDK/JDK/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="11201">
           <caret line="530" column="18" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
           <folding>
             <element signature="e#21068#21069#0" expanded="true" />
@@ -984,15 +931,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/checkUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="552">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code08_将单向链表按某值划分为小等大三部分.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
+        <state relative-caret-position="161">
           <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/ListUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code09_复制含有随机指针节点的链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code10_两个单链表生成相加链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code01_打印两个有序链表的公共部分.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="82" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code11_两个单链表相交的一系列问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
