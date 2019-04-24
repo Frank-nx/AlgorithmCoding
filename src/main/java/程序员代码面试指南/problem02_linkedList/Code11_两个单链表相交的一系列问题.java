@@ -19,10 +19,12 @@ public class Code11_两个单链表相交的一系列问题 {
         Node node4 = new Node(4);
         Node node5 = new Node(5);
         Node node6 = new Node(6);
+        Node node7 = new Node(7);
 
         node1.next = node4;
         node2.next = node3;
-        //node3.next = node5;
+        node3.next = node6;
+       // node7.next = node3;
         node4.next = node5;
         node5.next = node6;
         node6.next = node5;
@@ -35,6 +37,7 @@ public class Code11_两个单链表相交的一系列问题 {
         }
     }
 
+
     public static Node cross(Node head1,Node head2){
         if (head1 == null || head2 == null){
             return null;
@@ -44,14 +47,23 @@ public class Code11_两个单链表相交的一系列问题 {
         if (node1 == null && node2 == null){
             return crossPointOfList(head1,head2,null,null);
         }else if (node1 != null && node2 != null){
-            Node cross = crossPointOfList(head1,head2,node1,node2);
-            if (cross == null){
-                return node1;
-            }
-            return cross;
+            return bothLoop(head1,head2,node1,node2);
         }
         return null;
     }
+
+    public static Node bothLoop(Node head1,Node head2,Node node1,Node node2){
+        if (node1 == node2){
+            Node cross = crossPointOfList(head1,head2,node1,node2);
+            return cross == null ? node1 : cross;
+        }
+        Node cur = node2.next;
+        while (cur != node1 && cur != node2){
+            cur = cur.next;
+        }
+        return cur == node1 ? node1 : null;
+    }
+
 
     public static Node loopEntrance(Node head){
         if (head == null || head.next == null){
