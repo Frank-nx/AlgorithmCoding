@@ -1,10 +1,8 @@
 package 程序员代码面试指南.problem03_binaryTree;
 
-import com.sun.javafx.geom.Edge;
 import 程序员代码面试指南.a_nodeClass.TreeNode;
 
 import java.util.LinkedList;
-import java.util.logging.Level;
 
 /**
  * @program: AlgorithmCoding
