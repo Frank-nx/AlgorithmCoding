@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57a1d103-e211-4a5d-a770-84033632b571" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code03_如何较为直观的打印二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code04_二叉树的序列化和反序列化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code05_morris遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code09_二叉树的按层打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code10_二叉树的zigzag打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code11_调整搜索二叉树中两个错误的节点.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code02_打印二叉树的边界节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code02_打印二叉树的边界节点.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,75 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Code17_一种怪异的节点删除方式.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code17_一种怪异的节点删除方式.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code18_向有序的环形单链表中插入新节点.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code18_向有序的环形单链表中插入新节点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code19_合并两个有序的单链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code19_合并两个有序的单链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="51" column="33" selection-start-line="38" selection-start-column="8" selection-end-line="56" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code20_按照左右半区的方式重新组合单链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem02_linkedList/Code20_按照左右半区的方式重新组合单链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code01_二叉树的前中后遍历.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code01_二叉树的前中后遍历.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1633">
-              <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/a_util/TreeUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Code02_打印二叉树的边界节点.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code02_打印二叉树的边界节点.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,11 +54,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Code05_morris遍历.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Code05_morris遍历.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code05_morris遍历.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="132" column="24" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
+            <state relative-caret-position="598">
+              <caret line="27" column="28" selection-start-line="14" selection-start-column="8" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code06_在二叉树中找到累加和为指定值的最长路径长度.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code06_在二叉树中找到累加和为指定值的最长路径长度.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code07_找到二叉树中的最大搜索二叉子树.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code07_找到二叉树中的最大搜索二叉子树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="49" column="41" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="49" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="107" column="33" selection-start-line="107" selection-start-column="33" selection-end-line="107" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code09_二叉树的按层打印.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code09_二叉树的按层打印.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="40" column="28" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="40" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code10_二叉树的zigzag打印.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code10_二叉树的zigzag打印.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="27" column="41" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="27" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code11_调整搜索二叉树中两个错误的节点.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code11_调整搜索二叉树中两个错误的节点.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,12 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code03_逆序一个栈Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code04_用一个栈实现另一个栈的排序.java" />
-        <option value="$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code04_用一个栈实现另一个栈的排序Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code05_递归解决汉罗塔.java" />
-        <option value="$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code05_递归解决汉罗塔Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code06_使用栈解决汉罗塔.java" />
         <option value="$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code06_使用栈解决汉罗塔Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code07_生成窗口最大值数组.java" />
         <option value="$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code07_生成窗口最大值数组Test.java" />
@@ -204,6 +200,12 @@
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code03_如何较为直观的打印二叉树.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code04_二叉树的序列化和反序列化.java" />
         <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code05_morris遍历.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code06_在二叉树中找到累加和为指定值的最长路径长度.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code07_找到二叉树中的最大搜索二叉子树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code09_二叉树的按层打印.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code10_二叉树的zigzag打印.java" />
+        <option value="$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code11_调整搜索二叉树中两个错误的节点.java" />
       </list>
     </option>
   </component>
@@ -229,9 +231,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,6 +310,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,9 +350,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code05_morris遍历">
-    <configuration name="Code01_二叉树的前中后遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code01_二叉树的前中后遍历" />
+  <component name="RunManager" selected="Application.Code11_调整搜索二叉树中两个错误的节点">
+    <configuration name="Code07_找到二叉树中的最大搜索二叉子树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code07_找到二叉树中的最大搜索二叉子树" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -360,8 +362,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code02_打印二叉树的边界节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code02_打印二叉树的边界节点" />
+    <configuration name="Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -371,8 +373,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code03_如何较为直观的打印二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code03_如何较为直观的打印二叉树" />
+    <configuration name="Code09_二叉树的按层打印" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code09_二叉树的按层打印" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -382,8 +384,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code04_二叉树的序列化和反序列化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code04_二叉树的序列化和反序列化" />
+    <configuration name="Code10_二叉树的zigzag打印" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code10_二叉树的zigzag打印" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -393,8 +395,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Code05_morris遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code05_morris遍历" />
+    <configuration name="Code11_调整搜索二叉树中两个错误的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.problem03_binaryTree.Code11_调整搜索二叉树中两个错误的节点" />
       <module name="AlgorithmCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -446,19 +448,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Code01_二叉树的前中后遍历" />
-      <item itemvalue="Application.Code02_打印二叉树的边界节点" />
-      <item itemvalue="Application.Code03_如何较为直观的打印二叉树" />
-      <item itemvalue="Application.Code04_二叉树的序列化和反序列化" />
-      <item itemvalue="Application.Code05_morris遍历" />
+      <item itemvalue="Application.Code07_找到二叉树中的最大搜索二叉子树" />
+      <item itemvalue="Application.Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构" />
+      <item itemvalue="Application.Code09_二叉树的按层打印" />
+      <item itemvalue="Application.Code10_二叉树的zigzag打印" />
+      <item itemvalue="Application.Code11_调整搜索二叉树中两个错误的节点" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code05_morris遍历" />
-        <item itemvalue="Application.Code04_二叉树的序列化和反序列化" />
-        <item itemvalue="Application.Code03_如何较为直观的打印二叉树" />
-        <item itemvalue="Application.Code02_打印二叉树的边界节点" />
-        <item itemvalue="Application.Code01_二叉树的前中后遍历" />
+        <item itemvalue="Application.Code11_调整搜索二叉树中两个错误的节点" />
+        <item itemvalue="Application.Code10_二叉树的zigzag打印" />
+        <item itemvalue="Application.Code09_二叉树的按层打印" />
+        <item itemvalue="Application.Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构" />
+        <item itemvalue="Application.Code07_找到二叉树中的最大搜索二叉子树" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +489,9 @@
       <workItem from="1556411462523" duration="6638000" />
       <workItem from="1556499485867" duration="7773000" />
       <workItem from="1556587150588" duration="4059000" />
-      <workItem from="1557047324447" duration="1773000" />
+      <workItem from="1557047324447" duration="4132000" />
+      <workItem from="1557099873223" duration="9950000" />
+      <workItem from="1557187747113" duration="6212000" />
     </task>
     <task id="LOCAL-00001" summary="栈和队列问题01">
       <created>1555596479465</created>
@@ -573,7 +577,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556458280295</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="树问题02">
+      <created>1557050100792</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557050100792</updated>
+    </task>
+    <task id="LOCAL-00014" summary="树问题03">
+      <created>1557187780148</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557187780148</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -609,14 +627,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120254000" />
+    <option name="totallyTimeSpent" value="138775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32872927" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -624,11 +642,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2434555" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5013812" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2721354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2721354" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -642,7 +660,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32872927" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -662,7 +679,8 @@
     <MESSAGE value="链表问题05" />
     <MESSAGE value="树问题01" />
     <MESSAGE value="树问题02" />
-    <option name="LAST_COMMIT_MESSAGE" value="树问题02" />
+    <MESSAGE value="树问题03" />
+    <option name="LAST_COMMIT_MESSAGE" value="树问题03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -698,48 +716,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/程序员代码面试指南/problem01_StackAndQueue/Code07_生成窗口最大值数组Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/installation/work/javaJDK/JDK/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15778">
-          <caret line="731" column="13" selection-start-line="731" selection-start-column="13" selection-end-line="731" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code01_MyMinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1525">
-          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code02_两个栈组成一个队列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code03_逆序一个栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code04_用一个栈实现另一个栈的排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem01_StackAndQueue/Code05_递归解决汉罗塔.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="943">
@@ -986,9 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1003,9 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="51" column="33" selection-start-line="38" selection-start-column="8" selection-end-line="56" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1068,8 +1038,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code05_morris遍历.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="132" column="24" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
+        <state relative-caret-position="598">
+          <caret line="27" column="28" selection-start-line="14" selection-start-column="8" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code06_在二叉树中找到累加和为指定值的最长路径长度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code08_找到二叉树中符合搜索二叉树条件的最大拓扑结构.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="107" column="33" selection-start-line="107" selection-start-column="33" selection-end-line="107" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code07_找到二叉树中的最大搜索二叉子树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="49" column="41" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code09_二叉树的按层打印.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="40" column="28" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code10_二叉树的zigzag打印.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/程序员代码面试指南/problem03_binaryTree/Code11_调整搜索二叉树中两个错误的节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
