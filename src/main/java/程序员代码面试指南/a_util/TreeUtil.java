@@ -2,6 +2,8 @@ package 程序员代码面试指南.a_util;
 
 import 程序员代码面试指南.a_nodeClass.TreeNode;
 import 程序员代码面试指南.problem03_binaryTree.Code01_二叉树的前中后遍历;
+import 程序员代码面试指南.problem03_binaryTree.Code04_二叉树的序列化和反序列化;
+import 程序员代码面试指南.problem03_binaryTree.Code09_二叉树的按层打印;
 
 /**
  * @program: AlgorithmCoding
@@ -13,25 +15,8 @@ public class TreeUtil {
 
     private static Code01_二叉树的前中后遍历 code01 = new Code01_二叉树的前中后遍历();
 
-    public static TreeNode buildTreeByLevel(String[] arr){
-        if (arr == null || arr.length == 0){
-            return null;
-        }
-        return buildTreeByLevel(arr,0);
-    }
-
-    private static TreeNode buildTreeByLevel(String[] arr, int index) {
-        if (arr[index] == "#"){
-            return null;
-        }
-        TreeNode root = new TreeNode(Integer.parseInt(arr[index]));
-        if (2*index+1 < arr.length){
-            root.left = buildTreeByLevel(arr,index*2+1);
-        }
-        if (2 * index + 2 < arr.length){
-            root.right = buildTreeByLevel(arr,index*2+2);
-        }
-        return root;
+    public static TreeNode buildTreeByLevel(String s){
+        return Code04_二叉树的序列化和反序列化.deserialByLevel(s);
     }
 
     public static void preOrder(TreeNode root){
@@ -44,5 +29,9 @@ public class TreeUtil {
 
     public static void posOrder(TreeNode root){
         code01.posOrder(root);
+    }
+
+    public static void printLevel(TreeNode root){
+        Code09_二叉树的按层打印.printByLevel(root);
     }
 }

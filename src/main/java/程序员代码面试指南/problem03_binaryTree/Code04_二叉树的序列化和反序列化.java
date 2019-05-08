@@ -34,6 +34,11 @@ public class Code04_二叉树的序列化和反序列化 {
         String res = serialByPre(root);
         TreeNode newRoot = deserialByPre(res);
         TreeUtil.preOrder(newRoot);
+
+        System.out.println("====================");
+        TreeUtil.preOrder(root);
+        TreeNode newRoot1 = deserialByLevel(serialByLevel(root));
+        TreeUtil.preOrder(newRoot1);
     }
 
     public static String serialByPre(TreeNode root){
@@ -57,6 +62,57 @@ public class Code04_二叉树的序列化和反序列化 {
             queue.add((arr[i]));
         }
         return buildTree(queue);
+    }
+
+    public static String serialByLevel(TreeNode root){
+        if (root == null){
+            return "#!";
+        }
+        StringBuilder res = new StringBuilder();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        res.append(root.value + "!");
+        TreeNode cur = null;
+        while (!queue.isEmpty()){
+            cur = queue.poll();
+            if (cur.left != null){
+                queue.add(cur.left);
+                res.append(cur.left.value+ "!");
+            }else{
+                res.append("#!");
+            }
+            if (cur.right != null){
+                queue.add(cur.right);
+                res.append(cur.right.value + "!");
+            }else{
+                res.append("#!");
+            }
+        }
+        return res.toString();
+    }
+
+    public static TreeNode deserialByLevel(String s){
+        if (s == "#!"){
+            return null;
+        }
+        String[] params = s.split("!");
+        int index = 0;
+        TreeNode root = new TreeNode(Integer.parseInt(params[index++]));
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        TreeNode cur = null;
+        while (!queue.isEmpty()){
+            cur = queue.poll();
+            cur.left = params[index++].equals("#") ? null : new TreeNode(Integer.parseInt(params[index-1]));
+            cur.right = params[index++].equals("#") ? null : new TreeNode(Integer.parseInt(params[index-1]));
+            if (cur.left != null){
+                queue.add(cur.left);
+            }
+            if (cur.right != null){
+                queue.add(cur.right);
+            }
+        }
+        return root;
     }
 
     private static TreeNode buildTree(Queue<String> queue) {
