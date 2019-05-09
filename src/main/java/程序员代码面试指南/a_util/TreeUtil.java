@@ -34,4 +34,12 @@ public class TreeUtil {
     public static void printLevel(TreeNode root){
         Code09_二叉树的按层打印.printByLevel(root);
     }
+
+    public static void printNodeValue(TreeNode root){
+        if (root == null){
+            System.out.println("null");
+        }else{
+            System.out.println(root.value);
+        }
+    }
 }
